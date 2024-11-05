@@ -32,3 +32,14 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
+
+### LeetCode Streak & Progress
+
+I’m actively working on improving my problem-solving skills through LeetCode. Here's a snapshot of my current streak and progress:
+- **Current Streak**: 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/baig_fatema_begum?ext=heatmap)
+
+-Feel free to check out my [LeetCode profile](https://leetcode.com/u/baig_fatema_begum/) for more details on my progress!
+for more details on my progress!
+
